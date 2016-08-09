@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Itunes Player</string>
+    <string name="title_activity_songs">Itunes Player</string>
+
+    <string name="action_search">Поиск</string>
+
+    <string name="title_activity_posts" />
+    <string name="err_msg_no_connection">Нет интернета</string>
+    <string name="dialog_input_title_hint">Title (optionally)</string>
+    <string name="dialog_input_url_hint">Rss url</string>
+    <string name="err_input_url">Введите корректный адрес</string>
+    <string name="no_songs">Нет песен</string>
+
+</resources>

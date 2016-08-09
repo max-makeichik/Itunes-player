@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primaryDark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+
+    <color name="white">#eeeeee</color>
+
+    <color name="title">#000</color>
+    <color name="text">#B3000000</color>
+    <color name="half_black">#80000000</color>
+
+    <color name="artist">#000</color>
+    <color name="name">#B3000000</color>
+
+    <color name="item_grid_pressed">#e7e9ea</color>
+
+</resources>
